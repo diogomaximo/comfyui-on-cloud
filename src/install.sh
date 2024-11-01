@@ -45,8 +45,8 @@ chmod +x install_checkpoints.sh
 echo " "
 echo " ---------------- extensions installed "
 echo " "
-./install_checkpoints.sh
-#./install_checkpoints_big.sh
+# ./install_checkpoints.sh
+./install_checkpoints_big.sh
 
 echo " "
 echo " ---------------- checkpoints installed "
